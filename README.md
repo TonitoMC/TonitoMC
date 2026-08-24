@@ -11,7 +11,7 @@ Dual-degree Computer Science & Applied Mathematics student at Universidad del Va
 - **Model Training & Analysis:** Implemented and analyzed Q-Learning models and classical AI search algorithms alongside standard ML implementations using Scikit-Learn and NumPy ([Artificial-Intelligence-CC3085](https://github.com/Jose-Merida-UVG/Artificial-Intelligence-CC3085)).
 
 ### 🛠️ Systems & Engineering Highlights
-- **Engine Development:** Built a [custom C++/Rust chess engine](https://github.com/TonitoMC/chess-engine) featuring Alpha-Beta search, custom NNUE evaluation, and advanced pruning heuristics.
+- **Engine Development:** Built a [custom  Rust chess engine](https://github.com/TonitoMC/chess-engine) featuring Alpha-Beta search, custom NNUE evaluation, and advanced pruning heuristics.
 - **Compilers & Parsers:** Engineered custom lexical analyzer and parser generators (`YAPar`, `YALex`) in Go from scratch.
 
 ### 💻 Tech Stack
