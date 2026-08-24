@@ -6,7 +6,7 @@ Dual-degree Computer Science & Applied Mathematics student at Universidad del Va
 - **Machine Learning:** Expanding my ML foundations and planning to work through *Hands-On Machine Learning with PyTorch*.
 
 ### 🚀 Data & AI Experience
-- **Deep Learning:** Working with attention mechanisms, transformer architectures, and building/analyzing neural networks ([Deep-Learning-CC3092](https://github.com/Jose-Merida-UVG/Deep-Learning-CC3092)).
+- **Deep Learning:** Working with attention mechanisms, transformer architectures, and building/analyzing neural networks using Torch ([Deep-Learning-CC3092](https://github.com/Jose-Merida-UVG/Deep-Learning-CC3092)).
 - **Machine Learning Pipelines:** Developed a 1st-place winning dockerized intent classification and routing system using ONNX Runtime, Jina sentence transformers, RabbitMQ, Prometheus, and Grafana.
 - **Model Training & Analysis:** Implemented and analyzed Q-Learning models and classical AI search algorithms alongside standard ML implementations using Scikit-Learn and NumPy ([Artificial-Intelligence-CC3085](https://github.com/Jose-Merida-UVG/Artificial-Intelligence-CC3085)).
 
