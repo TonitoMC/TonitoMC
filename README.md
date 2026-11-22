@@ -1,6 +1,8 @@
 ## ⚡ José Antonio (TonitoMC)
 Dual-degree Computer Science & Applied Mathematics student at Universidad del Valle de Guatemala, with a strong interest in data, algorithms, and system design.
 
+Currently working as a Data Scientist :)
+
 ### 🎯 Current Focus
 - **Performance Engineering & Systems:** Deepening my understanding of Modern C++, data-oriented design, and hardware-aware optimizations (cache locality, memory layouts).
 - **Machine Learning:** Expanding my ML foundations and planning to work through *Hands-On Machine Learning with PyTorch*.
